@@ -2,3 +2,20 @@
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Keil C51 build output
+**/Objects/
+**/Listings/
+*.obj
+*.hex
+*.bin
+*.axf
+*.lnp
+*.m51
+*.lst
+*.build_log.htm
+*.uvgui.*
+*.uvguix.*
+*.uvopt.bak
+*.uvproj.bak
+JLinkLog.txt
